@@ -1,2 +1,3 @@
 This is day two on Git and GitHub.
 Some changes on GitHub.com
+Weber smokers are great
